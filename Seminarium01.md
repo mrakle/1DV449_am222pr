@@ -9,7 +9,7 @@
 
 - Vad ser du för faror för den personliga integriteten i ett mer och mer webbaserat samhälle? Vad har individen för ansvar för sin egen personliga integritet ur ett webbperspektiv?
  
-  ..* Det lagras ständigt data om och i många falla känslig data som riskerar att skada oss på många sett. 
+  ..1 Det lagras ständigt data om och i många falla känslig data som riskerar att skada oss på många sett. 
       Dels en simpel sak som vid jobbsök till.. 
       
 
