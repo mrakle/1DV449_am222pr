@@ -37,7 +37,7 @@ samtidigt som det var inte allt för länge sen det fanns riktigt alarmerande br
 Sen känns det som att bolaget har ett mycket aggressivt och läskigt sätt att expandera där första preoritet är att integrera så myclet media som möjligt utan att ens  vidare bry sig om säkerheten.
 
 Spontan känsla är upprördhet och insikt. Inte för att detta var en nyhet från en klar himmel utan mer att det är i sån stor omfattning och att det systematiskt växer hela tiden.
-Dvs det obehagliga i detta är självaste affärsiden. FB är nya håller på om inte redan är som i stil med tobaksbolagen. 
+Dvs det obehagliga i detta är självaste affärsiden. Frågan är om FB inte redan är eller iaf håller på att bli som tobaksbolagen.
 
 Upprörande också att dom respekterar sina egna medborjare, men inte resten av världen. 
 
