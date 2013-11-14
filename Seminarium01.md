@@ -48,7 +48,8 @@
 - *Vilka problem ser du med webbskrapning. Både som webbplatsägare (informationsägare) och som webbutvecklare. Nämn minst tre stycken, motivera dina val.*
 
 
-**Svar:** Här
+**Svar:** Som ägara vill jag självklart inte att andra ska dra nytta av min data i vinstsyfte. Däremot i forskning, ideella och liknande fall hade jag bara känt mig smickrad om jag fick förfrågan.
+
 
 
 - *När man som webbutvecklare skrapar en sida finns det vissa etikettsregler som man bör försöka följa. Kan du kommer på några sådana regler?*
