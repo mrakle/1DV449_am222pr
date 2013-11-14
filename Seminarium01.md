@@ -19,7 +19,7 @@
 - *I dag pratas det mycket inom forskningen om "Big Data"? Vad betyder det uttrycket?*
 
 
-**Svar:** Här..
+**Svar:** Efter att läst på lite olika ställen blev jag lite osäker på innebörden.
 
 - *Stora företag som t.ex. Google och Facebook samlar massor av information om våra aktiviteter på webben genom att vi använder deras tjänster. 
   Vad ser du för problem med detta? Vad ser du för fördelar? Motivera dina svar?*
@@ -32,7 +32,19 @@
 - *Vad fick du för tankar när du läste publikationen "Storebror på Facebook"?*
 
 
-**Svar:** här..
+**Svar:** Det var obeag blandat med lite positiva delar. Obeag av väldigt mycket som ex att hela storbror rollen blir bara värre och värre, 
+samtidigt som det var inte allt för länge sen det fanns riktigt alarmerande brister i systemet. Där enligt mig det värsta är när man kan se andras chatt i realtid.
+Sen känns det som att bolaget har ett mycket aggressivt och läskigt sätt att expandera där första preoritet är att integrera så myclet media som möjligt utan att ens  vidare bry sig om säkerheten.
+
+Spontan känsla är upprördhet och insikt. Inte för att detta var en nyhet från en klar himmel utan mer att det är i sån stor omfattning och att det systematiskt växer hela tiden.
+Dvs det obehagliga i detta är självaste affärsiden. FB är nya håller på om inte redan är som i stil med tobaksbolagen. 
+
+Upprörande också att dom respekterar sina egna medborjare, men inte resten av världen. 
+
+
+
+
+
 
 ####1.2 Fallstudie
 
@@ -40,7 +52,8 @@
    Vilka problem och vilka fördelar finns? Vad är OK att spara? Vad är inte OK?*
 
 
-**Svar:** här..
+**Svar:** Vet inte riktigt hur pålitligt det systemet är, om det är i stil med FB hade jag inte varit så glad i det. 
+Säg istället att universitetet har ett eget system som är säkert då hade det bara varit pisitivt.
 
 
 ### Diskussionsfråga 2 - Webbskrapning
