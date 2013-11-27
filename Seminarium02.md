@@ -32,15 +32,15 @@
 
 - *Vad innebär egentligen begreppet "öppen data"?*
 
-**Svar:** Skriv här..
+**Svar:** Att data som tidigare endast var till för behöriga nu blir öppet och fritt för varman att ta del av. Tanken är att det ska höja kunspen hos folk och utveckla samhället.
 
 - *Vad finns det för krav på den data som kallas för öppen data?*
 
-**Svar:** Skriv här..
+**Svar:** Först och främst att det inte bryter mot några lagar, sen att det är öppet och gratis för alla.
 
 - *Vad tror du tendenserna med mer öppen data kommer spela för roll för dig som webbutvecklare?*
 
-**Svar:** Skriv här..
+**Svar:** Öppen data måste underhållas och uppdateras, tror att den biten kan gynna webbutvecklare.
 
 #### 2.1 Fallstudie
 
