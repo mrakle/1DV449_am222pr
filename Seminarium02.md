@@ -26,7 +26,7 @@
 
 - *Hur skulle du klara dig idag om du bara använde dig av en webbläsare som programplattform. Vilka tjänster/mjukvaror kan du inte köra i en webbläsare?*
 
-**Svar:** Skriv här..
+**Svar:** Har inget bra exempel, men jag kan ju inte göra nånting i en webbläsare om jag fått strömavbrott eller tekniskt problem. Det mesta känns i dagsläget som det skulle kunna gå att köra i en webbläsare om uppkopplingen tillåter. 
 
 ### Diskussionsfråga 2 - Öppen data
 
