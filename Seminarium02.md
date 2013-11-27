@@ -46,12 +46,12 @@
 
 - *Surfa runt på din kommuns webbplats för att orientera dig kring vilken information som finns där. Vilken skulle du vara intresserad av att få presenterad på ett mer strukturerat sätt (för enklare användning i dina applikationer t.ex. som webb-API). Kan du komma på några tjänster som man skulle kunna bygga med denna data som skulle komma kommun/kommuninvånare till gagn? Tror du det finns någon information som i dagsläget inte är tillgänglig som Du skulle vilja komma åt för att bygga bra tjänster/applikationer?*
 
-**Svar:** Skriv här..
+**Svar:** Kollade igenom Varbergs kommuns sida. Vet att dom nyligen satsat mycket pengar på sin webbsida och tycker det mesta finns där. Det som kunnat funnits mer av är boende. Vilka områden som finns, priser på hyrorna och om det finns lediga lägenheter osv. 
 
 - *Vad för möjligheter- respektive risker ser du ur kommunens synvinkel att öppna upp sin data?*
 
-**Svar:** Skriv här..
+**Svar:** Så länge man inte inkräktar på invånarnas integritet så finns det inga större risker tror jag. Ju tydligare desto bättre. Viktig data som journaler kanske inte är nån bra ide om man inte är 100% säker. Är ju inte så kul om journaler om invånarna läcker ut. 
 
 - *Vad för möjligheter- respektive risker ser du som medborgare?*
 
-**Svar:** Skriv här..
+**Svar:** Det skulle vara om något personligt läcker ut. Möjligheten är att samla allt viktigt på en plats för invånarna. Skulle eventuellt kunna bli en samlingplats i form av socialtnätverk med kanske chatt, forum och blogginlägg. 
