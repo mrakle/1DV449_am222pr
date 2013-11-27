@@ -22,7 +22,7 @@
 
 - *Vad tror du om konceptet 100% webb, både i dagsläget och i framtiden?*
 
-**Svar:** Skriv här..
+**Svar:** Osäker på den här punkten. 
 
 - *Hur skulle du klara dig idag om du bara använde dig av en webbläsare som programplattform. Vilka tjänster/mjukvaror kan du inte köra i en webbläsare?*
 
