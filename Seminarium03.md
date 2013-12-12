@@ -22,3 +22,14 @@
 - *Vilka risker ser du med att bygga en tjänst kring de API:er du valt?*
 
 **Svar:**
+
+
+### Del 2 - Fallstudie - Exempel på en bra befintlig mashup-applikation
+
+-*Varför är denna applikation ett bra exempel på mashup-applikation?*
+
+**Svar:**
+
+-*På vilket sätt kombineras datakällorna och vilken ny effekt får dessa tillsammans?*
+
+**Svar:**
