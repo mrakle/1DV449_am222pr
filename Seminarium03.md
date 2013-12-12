@@ -6,7 +6,7 @@
 
 ### Ide 1 - Fiskeförhållanden
 
-Vill göra en machup där jag samlar apier som väder, vind och månens faser. Fiske är en av mina största hobbyn och det är något jag är väldigt bra på och vet viktigt det är med info med dom apierna jag nämt. Väder kanske inte är jätte viktigt kanske, men vinden och månen spelar stor roll. Varför månfaserna är viktig är för att veta om det är hög eller låg vatten och det har stor betydelse om man vill få fisk eller ska gräva strandmask.
+Vill göra en machup där jag samlar apier som väder, vind och månens faser. Fiske är en av mina största hobbyn och det är något jag är väldigt bra på och vet hur viktigt det är med info med dom apierna jag nämt. Väder kanske inte är jätte viktigt, men vinden och månen spelar stor roll. Varför månfaserna är viktig är för att veta om det är hög eller låg vatten och det har stor betydelse om man vill få fisk eller ska gräva strandmask. Ska man gräva strandmask måste det vara lågvatten för annars är det nästan omöjligt att gräva i vatten. När det är fullmåne är det mera fisk som kommer in med högvattnet.
 
 Mitt problem är att jag har hittat ett api för månen som är Google Kalender på Svenska, men jag kommer inte vidare när jag försöker läsa mer om den. Det skulle förvisso funka med bara väder och vind, men problemet med väder vind är att det måste verkligen vara aktuell data.
 
